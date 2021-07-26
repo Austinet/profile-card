@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github repository](https://github.com/Austinet/profile-card.gitm)
 - Live Site URL: [Live Site](https://austinet.github.io/profile-card/)
 
 ## My process
